@@ -1,1 +1,2 @@
-
+1.import cv2
+2.import numpy as np
